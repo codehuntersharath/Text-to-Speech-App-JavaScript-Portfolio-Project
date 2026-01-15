@@ -28,6 +28,24 @@ A **Text-to-Speech application built using Vanilla JavaScript** and the **Web Sp
 
 ---
 
+## 🌐 Live Demo
+<p align="center">
+  <a href="https://codehuntersharath.github.io/Text-to-Speech-App-JavaScript-Portfolio-Project">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-blue" />
+  </a>
+  <a href="https://youtu.be/5a9qs3NWUqg">
+    <img src="https://img.shields.io/badge/🎥%20YouTube-Tutorial-red" />
+  </a>
+  <a href="https://github.com/codehuntersharath/Text-to-Speech-App-JavaScript-Portfolio-Project/stargazers">
+    <img src="https://img.shields.io/badge/⭐%20Star-Repo-yellow" />
+  </a>
+</p>
+
+🚀 Try the application live here:  
+👉 **https://codehuntersharath.github.io/Text-to-Speech-App-JavaScript-Portfolio-Project/**
+
+---
+
 ## 🎥 Full Video Tutorial
 Learn how this project is built step-by-step on YouTube:  
 
@@ -158,3 +176,4 @@ This project is created for **educational purposes**.
 ---
 
 **Built with ❤️ by Sharathchandar K**
+
